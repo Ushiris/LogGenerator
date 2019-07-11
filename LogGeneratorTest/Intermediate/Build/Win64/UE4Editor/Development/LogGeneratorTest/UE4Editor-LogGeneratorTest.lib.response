@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-LogGeneratorTest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\yuugo\Downloads\LogGenerator\LogGeneratorTest\Intermediate\Build\Win64\LogGeneratorTestEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\yuugo\Downloads\LogGenerator\LogGeneratorTest\Intermediate\Build\Win64\UE4Editor\Development\LogGeneratorTest\LogGeneratorTest.cpp.obj"
+"C:\Users\yuugo\Downloads\LogGenerator\LogGeneratorTest\Intermediate\Build\Win64\UE4Editor\Development\LogGeneratorTest\MakeAvailableOAuth2.cpp.obj"
+"C:\Users\yuugo\Downloads\LogGenerator\LogGeneratorTest\Intermediate\Build\Win64\UE4Editor\Development\LogGeneratorTest\LogGeneratorTest.init.gen.cpp.obj"
+"C:\Users\yuugo\Downloads\LogGenerator\LogGeneratorTest\Intermediate\Build\Win64\UE4Editor\Development\LogGeneratorTest\MakeAvailableOAuth2.gen.cpp.obj"
+"C:\Users\yuugo\Downloads\LogGenerator\LogGeneratorTest\Intermediate\Build\Win64\UE4Editor\Development\LogGeneratorTest\Default.rc2.res"
+/OUT:"C:\Users\yuugo\Downloads\LogGenerator\LogGeneratorTest\Intermediate\Build\Win64\UE4Editor\Development\LogGeneratorTest\UE4Editor-LogGeneratorTest.lib"
+/INCLUDE:IMPLEMENT_MODULE_LogGeneratorTest

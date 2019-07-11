@@ -1,0 +1,2 @@
+C:\Users\yuugo\Downloads\LogGenerator\LogGeneratorTest\Intermediate\Build\Win64\UE4Editor\Development\LogGeneratorTest\Definitions.LogGeneratorTest.h
+C:\Users\yuugo\Downloads\LogGenerator\LogGeneratorTest\Source\LogGeneratorTest\LogGeneratorTest.h

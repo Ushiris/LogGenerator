@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LogGeneratorTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FBCD5D46-8765-434E-B018-2EE7DA468A13}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LogGeneratorTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LogGeneratorTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D9A0452A-DAED-405E-A1AC-2862FCE0D0EE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{DC6D06B2-79A3-4BAC-A082-765A3D36FD14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\VictoryPlugin422">
+      <UniqueIdentifier>{9E56F299-7822-4B8A-BBDF-61B55EE289EB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\VictoryPlugin422\Source">
+      <UniqueIdentifier>{3AF332EB-DE01-4373-87A4-AE8E6E3DD7B2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\VictoryPlugin422\Source\VictoryBPLibrary">
+      <UniqueIdentifier>{A68CFADD-6D5E-47FA-A88D-A902C5027B3C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\VictoryBPLibrary.Build.cs">
+      <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary</Filter>
+    </None>
+    <Filter Include="Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private">
+      <UniqueIdentifier>{B7F948EA-45B6-425E-80F3-FEE66C7A74DB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\TKMathFunctionLibrary.cpp">
+      <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPFunctionLibrary.cpp">
+      <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPFunctionLibrary_WinOS.cpp">
+      <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPHTML.cpp">
+      <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPLibrary.cpp">
+      <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\VictoryBPLibraryPrivatePCH.h">
+      <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public">
+      <UniqueIdentifier>{F7AA3FD2-CB91-47C0-9665-1A3CC12A0087}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\TKMathFunctionLibrary.h">
+      <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryBPFunctionLibrary.h">
+      <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryBPHTML.h">
+      <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryBPLibrary.h">
+      <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryISM.cpp">
+      <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryISM.h">
+      <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryPC.cpp">
+      <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryPC.h">
+      <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryTMapComp.cpp">
+      <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\VictoryTMapComp.h">
+      <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\VictoryPlugin422\VictoryBPLibrary.uplugin">
+      <Filter>Plugins\VictoryPlugin422</Filter>
+    </None>
+    <Filter Include="Plugins\VictoryPlugin422\Resources">
+      <UniqueIdentifier>{A17FD874-3DBF-4D2B-8D81-0B2AF4381948}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VictoryPlugin422\Resources\Icon128.png">
+      <Filter>Plugins\VictoryPlugin422\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\VictoryPlugin422\Resources\Thumbs.db">
+      <Filter>Plugins\VictoryPlugin422\Resources</Filter>
+    </None>
+    <Filter Include="Source\LogGeneratorTest">
+      <UniqueIdentifier>{ACD602B4-D713-427E-942B-80F0FA7F713F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LogGeneratorTest\LogGeneratorTest.Build.cs">
+      <Filter>Source\LogGeneratorTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LogGeneratorTest\LogGeneratorTest.cpp">
+      <Filter>Source\LogGeneratorTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LogGeneratorTest\LogGeneratorTest.h">
+      <Filter>Source\LogGeneratorTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LogGeneratorTest\MakeAvailableOAuth2.cpp">
+      <Filter>Source\LogGeneratorTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LogGeneratorTest\MakeAvailableOAuth2.h">
+      <Filter>Source\LogGeneratorTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
