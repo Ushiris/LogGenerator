@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\LogGeneratorTest.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{FBCD5D46-8765-434E-B018-2EE7DA468A13}</UniqueIdentifier>
+      <UniqueIdentifier>{07524FA5-C1AB-47A6-A1C1-B4C41C445E23}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\LogGeneratorTest.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{D9A0452A-DAED-405E-A1AC-2862FCE0D0EE}</UniqueIdentifier>
+      <UniqueIdentifier>{B62161D2-1FBB-45C4-A948-DC9D415C9F86}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,22 +24,22 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Plugins">
-      <UniqueIdentifier>{DC6D06B2-79A3-4BAC-A082-765A3D36FD14}</UniqueIdentifier>
+      <UniqueIdentifier>{3E995DF6-6F1D-48FD-9FD9-9676D0A02B73}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\VictoryPlugin422">
-      <UniqueIdentifier>{9E56F299-7822-4B8A-BBDF-61B55EE289EB}</UniqueIdentifier>
+      <UniqueIdentifier>{86FBE116-A6BF-4652-B4C6-A2D1348AC49D}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\VictoryPlugin422\Source">
-      <UniqueIdentifier>{3AF332EB-DE01-4373-87A4-AE8E6E3DD7B2}</UniqueIdentifier>
+      <UniqueIdentifier>{E94B5456-B911-4AA8-8907-1AB7B6E60A71}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\VictoryPlugin422\Source\VictoryBPLibrary">
-      <UniqueIdentifier>{A68CFADD-6D5E-47FA-A88D-A902C5027B3C}</UniqueIdentifier>
+      <UniqueIdentifier>{27F2C9B5-A7DA-4665-83F8-DD1015EEE1EB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\VictoryBPLibrary.Build.cs">
       <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary</Filter>
     </None>
     <Filter Include="Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private">
-      <UniqueIdentifier>{B7F948EA-45B6-425E-80F3-FEE66C7A74DB}</UniqueIdentifier>
+      <UniqueIdentifier>{E1350CB3-AFD8-495A-866F-13CE29B442F2}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private\TKMathFunctionLibrary.cpp">
       <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private</Filter>
@@ -60,7 +60,7 @@
       <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Private</Filter>
     </ClInclude>
     <Filter Include="Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public">
-      <UniqueIdentifier>{F7AA3FD2-CB91-47C0-9665-1A3CC12A0087}</UniqueIdentifier>
+      <UniqueIdentifier>{AEBE20EE-9282-4252-B3E0-CEED4CBC9219}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public\TKMathFunctionLibrary.h">
       <Filter>Plugins\VictoryPlugin422\Source\VictoryBPLibrary\Public</Filter>
@@ -96,7 +96,7 @@
       <Filter>Plugins\VictoryPlugin422</Filter>
     </None>
     <Filter Include="Plugins\VictoryPlugin422\Resources">
-      <UniqueIdentifier>{A17FD874-3DBF-4D2B-8D81-0B2AF4381948}</UniqueIdentifier>
+      <UniqueIdentifier>{CD900AD3-2BBD-454B-97AA-AF21F5BAA71F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\VictoryPlugin422\Resources\Icon128.png">
       <Filter>Plugins\VictoryPlugin422\Resources</Filter>
@@ -105,7 +105,7 @@
       <Filter>Plugins\VictoryPlugin422\Resources</Filter>
     </None>
     <Filter Include="Source\LogGeneratorTest">
-      <UniqueIdentifier>{ACD602B4-D713-427E-942B-80F0FA7F713F}</UniqueIdentifier>
+      <UniqueIdentifier>{2D5CD608-B956-4D31-B0B2-0DFD6727A92A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\LogGeneratorTest\LogGeneratorTest.Build.cs">
       <Filter>Source\LogGeneratorTest</Filter>
@@ -116,11 +116,23 @@
     <ClInclude Include="..\..\Source\LogGeneratorTest\LogGeneratorTest.h">
       <Filter>Source\LogGeneratorTest</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\LogGeneratorTest\MakeAvailableOAuth2.cpp">
-      <Filter>Source\LogGeneratorTest</Filter>
+    <Filter Include="Source\LogGeneratorTest\Private">
+      <UniqueIdentifier>{E4D53BB0-946A-4336-930B-CDDD53CB6A01}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\LogGeneratorTest\Private\CreateLog.cpp">
+      <Filter>Source\LogGeneratorTest\Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\LogGeneratorTest\MakeAvailableOAuth2.h">
-      <Filter>Source\LogGeneratorTest</Filter>
+    <ClCompile Include="..\..\Source\LogGeneratorTest\Private\SaveToText.cpp">
+      <Filter>Source\LogGeneratorTest\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\LogGeneratorTest\Public">
+      <UniqueIdentifier>{1A7A5227-67AF-4847-91D1-273479737F4C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\LogGeneratorTest\Public\CreateLog.h">
+      <Filter>Source\LogGeneratorTest\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\LogGeneratorTest\Public\SaveToText.h">
+      <Filter>Source\LogGeneratorTest\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
