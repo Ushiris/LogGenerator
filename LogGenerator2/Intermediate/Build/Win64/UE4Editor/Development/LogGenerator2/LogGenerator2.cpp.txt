@@ -1,0 +1,2 @@
+C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\Definitions.LogGenerator2.h
+c:\users\yuugo\documents\unreal projects\loggenerator2\source\loggenerator2\LogGenerator2.h

@@ -1,0 +1,3 @@
+C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\LogGenerator2.Build.cs
+C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2.Target.cs
+C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2Editor.Target.cs

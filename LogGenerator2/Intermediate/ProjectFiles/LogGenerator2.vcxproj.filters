@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LogGenerator2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B48072B8-522D-430D-98C3-B646581D66F5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LogGenerator2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LogGenerator2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{11131737-F42A-4831-8CB8-5A477E9FB7F0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\LogGenerator2">
+      <UniqueIdentifier>{987EFD0F-CB7B-48D7-B57C-6EFA6CDDDC66}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LogGenerator2\LogGenerator2.Build.cs">
+      <Filter>Source\LogGenerator2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LogGenerator2\LogGenerator2.cpp">
+      <Filter>Source\LogGenerator2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LogGenerator2\LogGenerator2.h">
+      <Filter>Source\LogGenerator2</Filter>
+    </ClInclude>
+    <Filter Include="Source\LogGenerator2\Private">
+      <UniqueIdentifier>{F9D89A98-BD24-4F24-BE9D-FE6D8F73FA96}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\LogGenerator2\Private\LogGenerator.cpp">
+      <Filter>Source\LogGenerator2\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\LogGenerator2\Public">
+      <UniqueIdentifier>{FD8DE862-ABFD-4F3C-A51A-7EF824FB29D0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\LogGenerator2\Public\LogGenerator.h">
+      <Filter>Source\LogGenerator2\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\LogGenerator2\Public\MyPawn.h">
+      <Filter>Source\LogGenerator2\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\LogGenerator2\Public\MyBlueprintFunctionLibrary.h">
+      <Filter>Source\LogGenerator2\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\LogGenerator2\Private\MyPawn.cpp">
+      <Filter>Source\LogGenerator2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\LogGenerator2\Private\MyBlueprintFunctionLibrary.cpp">
+      <Filter>Source\LogGenerator2\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

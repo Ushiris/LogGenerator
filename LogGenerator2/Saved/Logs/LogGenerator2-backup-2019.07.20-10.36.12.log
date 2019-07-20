@@ -1,0 +1,1274 @@
+﻿Log file open, 07/20/19 13:48:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: LogGenerator2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.167410
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Ushiris -epicuserid=25a6e3b7a5ca4c838049e086baa8c1cc -epiclocale=ja-JP
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Engine.ini]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Engine.ini]
+[2019.07.20-04.48.14:488][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Engine.ini]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Engine.ini]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.20-04.48.14:488][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Engine.ini]
+[2019.07.20-04.48.14:488][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Engine.ini]
+[2019.07.20-04.48.14:491][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Scalability.ini]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Scalability.ini]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Scalability.ini]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Scalability.ini]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.20-04.48.14:491][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Scalability.ini]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Scalability.ini]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Scalability.ini]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.20-04.48.14:492][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.20-04.48.14:492][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.20-04.48.14:492][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.20-04.48.14:553][  0]LogHAL: Display: Platform has ~ 8 GB [8483635200 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.20-04.48.14:553][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.07.20-04.48.14:553][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.20-04.48.14:554][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Scalability.ini]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Scalability.ini]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Scalability.ini]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Scalability.ini]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.20-04.48.14:554][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Scalability.ini]
+[2019.07.20-04.48.14:554][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Scalability.ini]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Scalability.ini]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.07.20-04.48.14:555][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Config/Windows/Engine.ini]
+[2019.07.20-04.48.14:555][  0]LogInit: Computer: USHIRIS
+[2019.07.20-04.48.14:555][  0]LogInit: User: yuugo
+[2019.07.20-04.48.14:556][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.07.20-04.48.14:556][  0]LogInit: High frequency timer resolution =2.835936 MHz
+[2019.07.20-04.48.14:556][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.07.20-04.48.14:556][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.20-04.48.14:556][  0]LogMemory: Process Physical Memory: 96.21 MB used, 96.21 MB peak
+[2019.07.20-04.48.14:556][  0]LogMemory: Process Virtual Memory: 91.91 MB used, 91.91 MB peak
+[2019.07.20-04.48.14:556][  0]LogMemory: Physical Memory: 7523.33 MB used,  567.29 MB free, 8090.63 MB total
+[2019.07.20-04.48.14:556][  0]LogMemory: Virtual Memory: 4646.11 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.07.20-04.48.14:576][  0]LogInit: Using OS detected language (ja-JP).
+[2019.07.20-04.48.14:576][  0]LogInit: Using OS detected locale (ja-JP).
+[2019.07.20-04.48.14:577][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2019.07.20-04.48.14:649][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.20-04.48.14:683][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.20-04.48.14:683][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.20-04.48.15:019][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.20-04.48.15:019][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.20-04.48.15:050][  0]LogD3D11RHI:    0. 'Radeon (TM) R7 M445' (Feature Level 11_0)
+[2019.07.20-04.48.15:050][  0]LogD3D11RHI:       4087/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.07.20-04.48.15:068][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.07.20-04.48.15:068][  0]LogD3D11RHI:       128/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.07.20-04.48.15:075][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.20-04.48.15:075][  0]LogD3D11RHI:       0/0/4045 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.20-04.48.15:075][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.20-04.48.15:098][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.20-04.48.15:098][  0]LogD3D11RHI:     GPU DeviceId: 0x6900 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.20-04.48.15:098][  0]LogWindows: EnumDisplayDevices:
+[2019.07.20-04.48.15:098][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.07.20-04.48.15:098][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.07.20-04.48.15:099][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.07.20-04.48.15:099][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.07.20-04.48.15:099][  0]LogD3D11RHI:     Adapter Name: Radeon (TM) R7 M445
+[2019.07.20-04.48.15:099][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.07.20-04.48.15:099][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.07.20-04.48.15:099][  0]LogRHI: Texture pool is 2861 MB (70% of 4087 MB)
+[2019.07.20-04.48.15:130][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.20-04.48.15:139][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.20-04.48.15:139][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.20-04.48.15:139][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.20-04.48.15:146][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2019.07.20-04.48.17:019][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.07.20-04.48.17:032][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.07.20-04.48.17:049][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.07.20-04.48.17:064][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.07.20-04.48.17:079][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.07.20-04.48.17:094][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.07.20-04.48.17:108][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.07.20-04.48.17:124][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.07.20-04.48.17:130][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.07.20-04.48.17:215][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.07.20-04.48.17:215][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.07.20-04.48.17:215][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.07.20-04.48.17:215][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.07.20-04.48.17:215][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.07.20-04.48.17:215][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.07.20-04.48.17:215][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.07.20-04.48.17:215][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.07.20-04.48.17:215][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.07.20-04.48.17:215][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.07.20-04.48.17:215][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.07.20-04.48.17:215][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.07.20-04.48.17:215][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.07.20-04.48.17:215][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.07.20-04.48.17:215][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.07.20-04.48.17:215][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.07.20-04.48.17:215][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.07.20-04.48.17:215][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.07.20-04.48.17:217][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.07.20-04.48.17:267][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.07.20-04.48.17:267][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.07.20-04.48.17:293][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.07.20-04.48.17:293][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.07.20-04.48.17:311][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.07.20-04.48.17:327][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.07.20-04.48.17:342][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.07.20-04.48.17:361][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.07.20-04.48.17:417][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.07.20-04.48.17:417][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.07.20-04.48.17:417][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.20-04.48.17:425][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.07.20-04.48.17:472][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Intermediate/Shaders/WorkingDirectory/56388/).
+[2019.07.20-04.48.17:472][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/yuugo/AppData/Local/Temp/UnrealShaderWorkingDir/31E9BCF94A914E49547BCABB76818235/'.
+[2019.07.20-04.48.17:474][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.20-04.48.17:474][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.20-04.48.17:474][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.20-04.48.18:098][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.20-04.48.18:195][  0]LogDerivedDataCache: Loaded boot cache 0.10s 71MB C:/Users/yuugo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.20-04.48.18:195][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/yuugo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.07.20-04.48.18:196][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.20-04.48.18:196][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.20-04.48.18:196][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.20-04.48.18:196][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.20-04.48.18:212][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.20-04.48.18:212][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.20-04.48.18:212][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.07.20-04.48.18:224][  0]LogDerivedDataCache: Using Local data cache path C:/Users/yuugo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.20-04.48.18:224][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.20-04.48.18:224][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.20-04.48.18:251][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.20-04.48.18:253][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.20-04.48.18:253][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.20-04.48.18:345][  0]LogAssetRegistry: FAssetRegistry took 0.0346 seconds to start up
+[2019.07.20-04.48.18:807][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.20-04.48.18:989][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.20-04.48.18:989][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.07.20-04.48.18:989][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.20-04.48.18:989][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.07.20-04.48.18:989][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.07.20-04.48.19:002][  0]LogNetVersion: LogGenerator2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1305661551)
+[2019.07.20-04.48.20:204][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.324865 seconds
+[2019.07.20-04.48.20:213][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.07.20-04.48.20:213][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.07.20-04.48.20:213][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.20-04.49.39:453][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.20-04.49.39:621][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.20-04.49.40:739][  0]SourceControl: ソースコントロールは無効です
+[2019.07.20-04.49.40:739][  0]SourceControl: ソースコントロールは無効です
+[2019.07.20-04.49.41:048][  0]SourceControl: ソースコントロールは無効です
+[2019.07.20-04.49.41:083][  0]SourceControl: ソースコントロールは無効です
+[2019.07.20-04.49.43:531][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.20-04.49.44:575][  0]LogOcInput: OculusInput pre-init called
+[2019.07.20-04.49.46:231][  0]LogEngine: Initializing Engine...
+[2019.07.20-04.49.46:232][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.20-04.49.46:233][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.07.20-04.49.46:511][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.20-04.49.46:903][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.20-04.49.46:965][  0]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.20-04.49.47:190][  0]LogInit: FAudioDevice initialized.
+[2019.07.20-04.49.47:191][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.20-04.49.48:125][  0]LogDerivedDataCache: Saved boot cache 0.93s 71MB C:/Users/yuugo/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.20-04.49.48:133][  0]LogInit: Texture streaming: Enabled
+[2019.07.20-04.49.48:544][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.20-04.49.49:659][  0]LogInit: Transaction tracking system initialized
+[2019.07.20-04.49.51:250][  0]BlueprintLog: New page: エディタの読み込み
+[2019.07.20-04.49.55:023][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2019.07.20-04.49.58:610][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Content/' took 0.01s
+[2019.07.20-04.49.58:610][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.20-04.49.58:610][  0]LogCook: Display: Mobile HDR setting 1
+[2019.07.20-04.50.02:441][  0]SourceControl: ソースコントロールは無効です
+[2019.07.20-04.50.02:442][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.20-04.50.02:442][  0]LightingResults: New page: ライティングのビルド
+[2019.07.20-04.50.02:445][  0]MapCheck: New page: マップをチェック
+[2019.07.20-04.50.02:445][  0]LightingResults: New page: ライティングのビルド
+[2019.07.20-04.50.02:499][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.07.20-04.50.02:604][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.07.20-04.50.02:613][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.20-04.50.02:645][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.07.20-04.50.02:645][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.20-04.50.02:645][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.219ミリ秒かかりました。
+[2019.07.20-04.50.02:645][  0]LogFileHelpers: Loading map 'Template_Default' took 0.204
+[2019.07.20-04.50.04:320][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.20-04.50.04:396][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.20-04.50.04:403][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.20-04.50.04:410][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.20-04.50.04:704][  0]LogCollectionManager: Loaded 0 collections in 0.000967 seconds
+[2019.07.20-04.50.05:485][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Collections/' took 0.01s
+[2019.07.20-04.50.05:485][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Content/Developers/yuugo/Collections/' took 0.01s
+[2019.07.20-04.50.05:485][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Content/Collections/' took 0.01s
+[2019.07.20-04.50.05:485][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.07.20-04.50.05:539][  0]LogContentBrowser: Native class hierarchy populated in 0.0321 seconds. Added 2732 classes and 659 folders.
+[2019.07.20-04.50.06:012][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.07.20-04.50.06:543][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:596][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:598][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:601][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:673][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:675][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:677][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:720][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:724][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:726][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:733][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:736][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:738][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:740][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:743][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:747][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:749][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.06:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.20-04.50.10:463][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.20-04.50.10:778][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.07.20-04.50.11:847][  0]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.20-04.50.11:848][  0]LogSlate: Took 0.000607 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2019.07.20-04.50.11:874][  0]LogSlate: Took 0.000619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2019.07.20-04.50.11:874][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.20-04.50.12:017][  0]LogSlate: Took 0.068508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.20-04.50.12:690][  0]LogRenderer: Reallocating scene render targets to support 964x460 Format 10 NumSamples 1 (Frame:1).
+[2019.07.20-04.50.14:143][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.07.20-04.50.14:143][  0]LogLoad: (Engine Initialization) Total time: 123.25 seconds
+[2019.07.20-04.50.14:143][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.20-04.50.14:271][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2019.07.20-04.50.14:460][  0]LogAssetRegistry: Asset discovery search completed in 116.1373 seconds
+[2019.07.20-04.50.14:462][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.07.20-04.50.14:462][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2019.07.20-04.50.14:547][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.07.20-04.50.28:121][712]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.20-04.50.51:109][712]LogSlate: Window '名前を付けてレベルを保存する' being destroyed
+[2019.07.20-04.50.51:115][712]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.07.20-04.50.51:120][712]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.20-04.50.51:121][712]LogSlate: Took 0.000355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2019.07.20-04.50.51:632][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.07.20-04.50.51:774][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMap" FILE="../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Content/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.20-04.50.51:820][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.07.20-04.50.53:931][712]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/TestMap1C0759EC4214DC42F774458DCD5285CE.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Content/TestMap.umap'
+[2019.07.20-04.50.54:005][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMap_BuiltData" FILE="../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Content/TestMap_BuiltData.uasset" SILENT=true
+[2019.07.20-04.50.54:098][712]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/TestMap_BuiltDataA217B6F64C1FF97E770FF08681CCF3C9.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Content/TestMap_BuiltData.uasset'
+[2019.07.20-04.50.54:104][712]LogFileHelpers: Saving map 'TestMap' took 2.987
+[2019.07.20-04.50.54:365][716]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.20-04.58.48:892][916]LogSlate: Took 0.040557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2019.07.20-04.58.48:923][916]LogSlate: Took 0.031503 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.07.20-05.00.00:283][476]Running C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/LogGenerator2.uproject" -game -rocket -progress
+[2019.07.20-05.00.01:020][476]Discovering modules, targets and source code for project...
+[2019.07.20-05.00.08:164][476]Binding IntelliSense data...
+[2019.07.20-05.00.13:602][476]Binding IntelliSense data... 100%
+[2019.07.20-05.00.13:702][476]Writing project files...
+[2019.07.20-05.00.20:345][476]Writing project files... 100%
+[2019.07.20-05.00.20:453][476]LogHotReload: Recompiling module LogGenerator2...
+[2019.07.20-05.00.20:746][476]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.07.20-05.00.21:121][476]Candidate modules for hot reload:
+[2019.07.20-05.00.21:121][476]  LogGenerator2
+[2019.07.20-05.00.21:122][476]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LogGenerator2,8778 Win64 Development -TargetType=Editor -Project="C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/LogGenerator2.uproject" "C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/LogGenerator2.uproject"  -IgnoreJunk]
+[2019.07.20-05.04.18:087][476]Creating makefile for LogGenerator2Editor (no existing makefile)
+Parsing headers for LogGenerator2Editor
+  Running UnrealHeaderTool "C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\LogGenerator2.uproject" "C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\LogGenerator2Editor\Development\LogGenerator2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for LogGenerator2Editor in 12.638654 seconds
+Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 9 actions with 4 processes...
+  [1/9] Default.rc2
+  [2/9] SharedPCH.Engine.cpp
+  [3/9] LogGenerator.cpp
+  [4/9] LogGenerator2.cpp
+  [5/9] LogGenerator2.init.gen.cpp
+  [6/9] LogGenerator.gen.cpp
+  [7/9] UE4Editor-LogGenerator2-8778.lib
+     ???C?u???? C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-8778.lib ?ƃI?u?W?F?N?g C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-8778.exp ???쐬??
+  [8/9] UE4Editor-LogGenerator2-8778.dll
+     ???C?u???? C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-8778.suppressed.lib ?ƃI?u?W?F?N?g C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-8778.suppressed.exp ???쐬??
+  [9/9] LogGenerator2Editor.target
+Total time in Parallel executor: 199.05 seconds
+Total execution time: 236.80 seconds
+
+[2019.07.20-05.04.18:272][476]CompilerResultsLog: New page: コンパイル - 2019/07/20 23:04:18
+[2019.07.20-05.04.18:300][476]CompilerResultsLog: Creating makefile for LogGenerator2Editor (no existing makefile)
+[2019.07.20-05.04.18:300][476]CompilerResultsLog: Parsing headers for LogGenerator2Editor
+[2019.07.20-05.04.18:300][476]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\LogGenerator2.uproject" "C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\LogGenerator2Editor\Development\LogGenerator2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.20-05.04.18:300][476]CompilerResultsLog: Reflection code generated for LogGenerator2Editor in 12.638654 seconds
+[2019.07.20-05.04.18:300][476]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.20-05.04.18:300][476]CompilerResultsLog: Building 9 actions with 4 processes...
+[2019.07.20-05.04.18:300][476]CompilerResultsLog:   [1/9] Default.rc2
+[2019.07.20-05.04.18:300][476]CompilerResultsLog:   [2/9] SharedPCH.Engine.cpp
+[2019.07.20-05.04.18:300][476]CompilerResultsLog:   [3/9] LogGenerator.cpp
+[2019.07.20-05.04.18:300][476]CompilerResultsLog:   [4/9] LogGenerator2.cpp
+[2019.07.20-05.04.18:300][476]CompilerResultsLog:   [5/9] LogGenerator2.init.gen.cpp
+[2019.07.20-05.04.18:300][476]CompilerResultsLog:   [6/9] LogGenerator.gen.cpp
+[2019.07.20-05.04.18:300][476]CompilerResultsLog:   [7/9] UE4Editor-LogGenerator2-8778.lib
+[2019.07.20-05.04.18:300][476]CompilerResultsLog:      ???C?u???? C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-8778.lib ?ƃI?u?W?F?N?g C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-8778.exp ???쐬??
+[2019.07.20-05.04.18:300][476]CompilerResultsLog:   [8/9] UE4Editor-LogGenerator2-8778.dll
+[2019.07.20-05.04.18:300][476]CompilerResultsLog:      ???C?u???? C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-8778.suppressed.lib ?ƃI?u?W?F?N?g C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-8778.suppressed.exp ???쐬??
+[2019.07.20-05.04.18:300][476]CompilerResultsLog:   [9/9] LogGenerator2Editor.target
+[2019.07.20-05.04.18:300][476]CompilerResultsLog: Total time in Parallel executor: 199.05 seconds
+[2019.07.20-05.04.18:300][476]CompilerResultsLog: Total execution time: 236.80 seconds
+[2019.07.20-05.04.18:315][476]LogMainFrame: MainFrame: Module compiling took 237.570 seconds
+[2019.07.20-05.04.18:437][476]Reloading module LogGenerator2 after successful compile.
+[2019.07.20-05.04.18:645][476]LogClass: Could not find existing package /Script/LogGenerator2 for HotReload of class LogGenerator, assuming a new package.
+[2019.07.20-05.04.18:665][476]LogContentBrowser: Native class hierarchy updated for 'LogGenerator2' in 0.0161 seconds. Added 1 classes and 3 folders.
+[2019.07.20-05.04.18:687][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.07.20-05.04.18:844][476]LogContentBrowser: Native class hierarchy populated in 0.0132 seconds. Added 2734 classes and 664 folders.
+[2019.07.20-05.04.22:010][476]LogSlate: Window 'C++ クラスを追加' being destroyed
+[2019.07.20-05.04.23:265][477]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-05.04.23:266][477]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-05.04.23:266][477]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-05.04.23:266][477]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-05.07.19:620][ 93]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-05.07.19:620][ 93]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-06.33.51:448][478]Candidate modules for hot reload:
+[2019.07.20-06.33.51:533][478]  LogGenerator2
+[2019.07.20-06.33.51:670][478]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LogGenerator2,7429 Win64 Development -TargetType=Editor -Project="C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/LogGenerator2.uproject" "C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/LogGenerator2.uproject"  -IgnoreJunk]
+[2019.07.20-06.33.51:905][478]Warning: Starting HotReload took  2.3s.
+[2019.07.20-06.39.32:464][914]CompilerResultsLog: New page: コンパイル - 2019/07/21 0:39:32
+[2019.07.20-06.39.32:633][914]CompilerResultsLog: Parsing headers for LogGenerator2Editor
+[2019.07.20-06.39.32:634][914]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\LogGenerator2.uproject" "C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\LogGenerator2Editor\Development\LogGenerator2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.20-06.39.32:634][914]CompilerResultsLog: Reflection code generated for LogGenerator2Editor in 37.1093674 seconds
+[2019.07.20-06.39.32:634][914]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.20-06.39.32:634][914]CompilerResultsLog: Building 6 actions with 4 processes...
+[2019.07.20-06.39.32:634][914]CompilerResultsLog:   [1/6] LogGenerator.cpp
+[2019.07.20-06.39.32:650][914]CompilerResultsLog:    C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\Private\LogGenerator.cpp(28) : error C2653: 'ASaveToText': ???ʎq???N???X???ł????O???Ԗ??ł??????܂????B
+[2019.07.20-06.39.32:650][914]CompilerResultsLog:   C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\Private\LogGenerator.cpp(30): warning C4996: 'FPaths::GameDir': FPaths::GameDir() has been superseded by FPaths::ProjectDir(). Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.07.20-06.39.32:650][914]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/Paths.h(124): note: 'FPaths::GameDir' ?̐錾???m?F???Ă???????
+[2019.07.20-06.39.32:650][914]CompilerResultsLog:    C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\Private\LogGenerator.cpp(33) : error C2653: 'ASaveToText': ???ʎq???N???X???ł????O???Ԗ??ł??????܂????B
+[2019.07.20-06.39.32:650][914]CompilerResultsLog:   C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\Private\LogGenerator.cpp(35): warning C4996: 'FPaths::GameDir': FPaths::GameDir() has been superseded by FPaths::ProjectDir(). Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.07.20-06.39.32:650][914]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/Paths.h(124): note: 'FPaths::GameDir' ?̐錾???m?F???Ă???????
+[2019.07.20-06.39.32:650][914]CompilerResultsLog:    C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\Private\LogGenerator.cpp(38) : error C2653: 'ASaveToText': ???ʎq???N???X???ł????O???Ԗ??ł??????܂????B
+[2019.07.20-06.39.32:650][914]CompilerResultsLog:   C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\Private\LogGenerator.cpp(42): warning C4996: 'FPaths::GameDir': FPaths::GameDir() has been superseded by FPaths::ProjectDir(). Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.07.20-06.39.32:650][914]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/Paths.h(124): note: 'FPaths::GameDir' ?̐錾???m?F???Ă???????
+[2019.07.20-06.39.32:650][914]CompilerResultsLog:   [2/6] LogGenerator2.init.gen.cpp
+[2019.07.20-06.39.32:650][914]CompilerResultsLog:   [3/6] LogGenerator.gen.cpp
+[2019.07.20-06.39.32:693][914]LogMainFrame: MainFrame: Module compiling took 342.070 seconds
+[2019.07.20-06.39.32:816][914]Warning: HotReload failed, recompile failed
+[2019.07.20-07.31.55:895][438]LogActorFactory: Actor Factory created Cube
+[2019.07.20-07.32.03:243][440]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 6. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2019.07.20-07.32.06:247][530]LogActorFactory: Actor Factory created Cube
+[2019.07.20-07.32.19:209][678]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.20-07.32.21:075][678]LogUObjectHash: Compacting FUObjectHashTables data took  26.19ms
+[2019.07.20-07.32.26:451][678]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/TestMap_Auto1A84017FE43FE6C50DD3FFC866CDC0334.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Autosaves/Game/TestMap_Auto1.umap'
+[2019.07.20-07.32.26:587][678]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestMap' took 6.976
+[2019.07.20-07.32.26:587][678]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 6.976
+[2019.07.20-07.34.00:395][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMap" FILE="../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Content/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.20-07.34.00:535][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.07.20-07.34.00:639][988]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/TestMapD7344AD341FA2223F7D2F6809AF145A6.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Content/TestMap.umap'
+[2019.07.20-07.34.00:740][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMap_BuiltData" FILE="../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Content/TestMap_BuiltData.uasset" SILENT=true
+[2019.07.20-07.34.00:969][988]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/TestMap_BuiltDataBAD8356E4D998D176A642D8C7EF54BD6.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Content/TestMap_BuiltData.uasset'
+[2019.07.20-07.34.10:615][496]LogSlate: Took 0.067360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.07.20-07.34.14:170][699]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (45.359 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-07.34.39:514][ 87]LogSlate: Window 'パスを選択' being destroyed
+[2019.07.20-07.34.40:210][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.07.20-07.34.40:318][ 87]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Cube_Blueprint.Cube_Blueprint
+[2019.07.20-07.34.44:695][ 87]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0854 seconds. Added 121 classes and 0 folders.
+[2019.07.20-07.37.27:233][449]LogRenderer: Reallocating scene render targets to support 964x724 Format 10 NumSamples 1 (Frame:5364).
+[2019.07.20-07.37.29:318][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_Blueprint" FILE="../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Content/Cube_Blueprint.uasset" SILENT=true
+[2019.07.20-07.37.29:448][502]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Cube_Blueprint562ED0FF465D50733D5851907F87481F.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Content/Cube_Blueprint.uasset'
+[2019.07.20-07.39.00:913][312]LogSlate: Took 0.048305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.07.20-07.39.51:371][531]BlueprintLog: New page: Cube_Blueprint をコンパイル
+[2019.07.20-07.39.51:625][531]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.07.20-07.44.00:397][613]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.07.20-07.44.00:693][613]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/TestMap_Auto2157405DE4F9BA885DBE2C4A21E9301E8.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Autosaves/Game/TestMap_Auto2.umap'
+[2019.07.20-07.44.00:699][613]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestMap' took 0.364
+[2019.07.20-07.44.00:699][613]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.364
+[2019.07.20-07.44.00:702][613]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cube_Blueprint] ([1] browsable assets)...
+[2019.07.20-07.44.00:748][613]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Cube_Blueprint.Cube_Blueprint]
+[2019.07.20-07.44.00:748][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cube_Blueprint]
+[2019.07.20-07.44.00:914][613]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Cube_Blueprint_Auto216D740374E8FECB281FEF788EBDA3710.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Autosaves/Game/Cube_Blueprint_Auto2.uasset'
+[2019.07.20-07.44.00:917][613]LogFileHelpers: Auto-saving content packages took 0.215
+[2019.07.20-07.44.37:248][ 77]BlueprintLog: New page: Cube_Blueprint をコンパイル
+[2019.07.20-07.44.37:630][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2019.07.20-07.47.24:232][620]BlueprintLog: New page: Cube_Blueprint をコンパイル
+[2019.07.20-07.47.24:623][620]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2019.07.20-07.47.29:489][849]MapCheck: New page: マップをチェック
+[2019.07.20-07.47.29:569][849]Cmd: MAP REBUILD ALLVISIBLE
+[2019.07.20-07.47.29:589][849]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.07.20-07.47.30:478][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.07.20-07.47.30:603][849]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.07.20-07.47.30:964][849]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.07.20-07.47.30:972][849]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.07.20-07.47.37:633][849]TextureStreamingBuild: Display: Compiling optional shaders took 7.119 seconds.
+[2019.07.20-07.47.37:788][849]LogLevel: Display: Export Material TexCoord Scales took 0.154 seconds.
+[2019.07.20-07.47.37:831][849]TextureStreamingBuild: Display: Build Texture Streaming took 0.043 seconds.
+[2019.07.20-07.47.37:885][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.07.20-07.47.37:925][849]LightingResults: New page: ライティングのビルド - 2019/07/21 1:47:37
+[2019.07.20-07.47.38:719][849]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.07.20-07.47.39:468][849]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.07.20-07.47.39:752][849]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.07.20-07.47.42:477][849]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2019.07.20-07.47.42:692][849]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。 127.0.0.1:8008
+
+Server stack trace: 
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   場所 System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   場所 System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   場所 System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   場所 System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   場所 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   場所 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   場所 NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   場所 NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) 場所 D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:行 2811
+[2019.07.20-07.47.48:117][849]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.07.20-07.47.48:117][849]LogSwarmInterface: [TryOpenConnection] Local Process ID is 56388
+[2019.07.20-07.47.54:753][849]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.07.20-07.47.54:764][849]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.07.20-07.47.54:764][849]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.07.20-07.47.54:764][849]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.07.20-07.47.54:764][849]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.07.20-07.47.54:764][849]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.07.20-07.47.55:251][849]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.07.20-07.47.55:251][849]MapCheck: New page: TestMap - 2019/07/21 1:47:55
+[2019.07.20-07.47.55:268][849]MapCheck: Error: WorldSettings_1 マップはライティングの再ビルドが必要です 
+[2019.07.20-07.47.55:362][849]MapCheck: マップチェックが完了: 1 エラー、 0 警告、完了に 96.416ミリ秒かかりました。
+[2019.07.20-07.47.55:386][849]LogEditorBuildUtils: Build time 0:25
+[2019.07.20-07.47.55:522][849]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2019.07.20-07.47.55:801][849]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2019.07.20-07.47.56:183][850]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.07.20-07.47.56:308][850]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.07.20-07.47.56:521][851]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2019.07.20-07.47.56:594][851]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2019.07.20-07.47.56:693][852]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.07.20-07.47.56:882][852]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.07.20-07.48.02:558][854]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.20-07.48.03:017][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.07.20-07.48.09:057][ 28]Job is a success!
+[2019.07.20-07.48.09:753][ 29]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.033s
+[2019.07.20-07.48.09:753][ 29]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.07.20-07.48.09:753][ 29]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2019.07.20-07.48.09:753][ 29]LogVolumetricLightmapImport:      Bricks at Level
+[2019.07.20-07.48.09:753][ 29]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.07.20-07.48.09:753][ 29]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2019.07.20-07.48.09:753][ 29]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2019.07.20-07.48.10:365][ 29]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.07.20-07.48.10:365][ 29]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.07.20-07.48.10:365][ 29]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.07.20-07.48.10:365][ 29]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.07.20-07.48.10:612][ 29]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X128)
+[2019.07.20-07.48.10:631][ 29]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.07.20-07.48.11:007][ 29]Lightmass on USHIRIS: 4.42 sec total, 540 ms importing, 59 ms setup, 280 ms photons, 2.91 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 11.5 sec total, 1.60 sec processing.
+[2019.07.20-07.48.11:016][ 29]LogStaticLightingSystem: TestMap_BuiltData storing lightmap data for 3 meshes in 2 LightmapResourceClusters (1.5 Meshes per cluster).
+[2019.07.20-07.48.11:078][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.07.20-07.48.11:086][ 29]LogStaticLightingSystem: Illumination: 33.1 sec (530 ms encoding lightmaps, 263 ms encoding shadowmaps)
+[2019.07.20-07.48.11:086][ 29]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.07.20-07.48.11:086][ 29]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.07.20-07.48.11:647][ 29]DumpUnbuiltLightIteractions
+[2019.07.20-07.48.11:647][ 29]Lights with unbuilt interactions: 0
+[2019.07.20-07.48.11:647][ 29]
+[2019.07.20-07.48.11:647][ 29]Primitives with unbuilt interactions: 0
+[2019.07.20-07.48.11:796][ 30]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.07.20-07.48.11:797][ 30]MapCheck: New page: TestMap - 2019/07/21 1:48:11
+[2019.07.20-07.48.11:798][ 30]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 1.414ミリ秒かかりました。
+[2019.07.20-07.51.44:091][671]LogSlate: Window 'メッセージ ログ' being destroyed
+[2019.07.20-07.51.44:105][671]LogSlate: Window 'メッセージ ログ' being destroyed
+[2019.07.20-07.52.30:518][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.20-07.54.09:077][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.07.20-07.54.09:354][ 79]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/TestMap_Auto35F15612C4D3B8D49E55DF88C4F769532.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Autosaves/Game/TestMap_Auto3.umap'
+[2019.07.20-07.54.09:359][ 79]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestMap' took 0.338
+[2019.07.20-07.54.09:359][ 79]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.338
+[2019.07.20-07.54.09:362][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cube_Blueprint] ([1] browsable assets)...
+[2019.07.20-07.54.09:400][ 79]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Cube_Blueprint.Cube_Blueprint]
+[2019.07.20-07.54.09:400][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cube_Blueprint]
+[2019.07.20-07.54.09:440][ 79]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Cube_Blueprint_Auto3970EC2214E2A81A8FEE6BCA1A5741C65.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Autosaves/Game/Cube_Blueprint_Auto3.uasset'
+[2019.07.20-07.54.09:443][ 79]LogFileHelpers: Auto-saving content packages took 0.082
+[2019.07.20-07.56.30:385][141]LogSlate: Took 0.200527 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.07.20-07.56.52:534][991]BlueprintLog: New page: Cube_Blueprint をコンパイル
+[2019.07.20-07.56.52:958][991]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2019.07.20-07.56.56:738][130]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.07.20-07.57.31:405][454]BlueprintLog: New page: Cube_Blueprint をコンパイル
+[2019.07.20-07.57.31:842][454]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2019.07.20-07.59.23:997][691]LogSlate: Window '変数の型を変更' being destroyed
+[2019.07.20-07.59.35:596][121]LogSlate: Window 'ブループリントを検索' being destroyed
+[2019.07.20-07.59.35:611][121]LogSlate: Window 'ブループリントを検索' being destroyed
+[2019.07.20-07.59.41:170][328]BlueprintLog: New page: Cube_Blueprint をコンパイル
+[2019.07.20-07.59.41:177][328]LogProperty: Warning: Serialized Class /Script/CoreUObject.Class for a property of Class /Script/LogGenerator2.LogGenerator. Reference will be nullptred.
+    Property = ObjectProperty /Game/Cube_Blueprint.Cube_Blueprint_C:LogGenerator
+    Item = Class /Script/LogGenerator2.LogGenerator
+[2019.07.20-07.59.41:474][328]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2019.07.20-08.00.24:269][926]BlueprintLog: New page: Cube_Blueprint をコンパイル
+[2019.07.20-08.00.24:683][926]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2019.07.20-08.04.09:746][848]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2019.07.20-08.04.10:045][848]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/TestMap_Auto49261BA80472256E9E7E5418ECA11C52A.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Autosaves/Game/TestMap_Auto4.umap'
+[2019.07.20-08.04.10:049][848]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestMap' took 0.375
+[2019.07.20-08.04.10:049][848]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.375
+[2019.07.20-08.04.10:053][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cube_Blueprint] ([1] browsable assets)...
+[2019.07.20-08.04.10:091][848]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Cube_Blueprint.Cube_Blueprint]
+[2019.07.20-08.04.10:092][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cube_Blueprint]
+[2019.07.20-08.04.10:137][848]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Cube_Blueprint_Auto47C60A693425A80A4521D18B14EBC3969.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Autosaves/Game/Cube_Blueprint_Auto4.uasset'
+[2019.07.20-08.04.10:140][848]LogFileHelpers: Auto-saving content packages took 0.088
+[2019.07.20-08.04.57:788][ 74]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.07.20-08.04.57:792][ 74]Candidate modules for hot reload:
+[2019.07.20-08.04.57:792][ 74]  LogGenerator2
+[2019.07.20-08.04.57:793][ 74]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LogGenerator2,5311 Win64 Development -TargetType=Editor -Project="C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/LogGenerator2.uproject" "C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/LogGenerator2.uproject"  -IgnoreJunk]
+[2019.07.20-08.04.58:032][ 74]Warning: Starting HotReload took  0.3s.
+[2019.07.20-08.09.55:345][ 64]CompilerResultsLog: New page: コンパイル - 2019/07/21 2:09:55
+[2019.07.20-08.09.55:345][ 64]CompilerResultsLog: Creating makefile for LogGenerator2Editor (ini files are newer than makefile)
+[2019.07.20-08.09.55:345][ 64]CompilerResultsLog: Parsing headers for LogGenerator2Editor
+[2019.07.20-08.09.55:345][ 64]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\LogGenerator2.uproject" "C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\LogGenerator2Editor\Development\LogGenerator2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.20-08.09.55:345][ 64]CompilerResultsLog: Reflection code generated for LogGenerator2Editor in 40.646998 seconds
+[2019.07.20-08.09.55:345][ 64]CompilerResultsLog: Error: C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\Private\LogGenerator.cpp(1) : error: Expected LogGenerator.h to be first header included.
+[2019.07.20-08.09.55:345][ 64]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.20-08.09.55:345][ 64]CompilerResultsLog: Building 4 actions with 4 processes...
+[2019.07.20-08.09.55:345][ 64]CompilerResultsLog:   [1/4] LogGenerator.cpp
+[2019.07.20-08.09.55:345][ 64]CompilerResultsLog:   C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\Private\LogGenerator.cpp(32): warning C4996: 'FPaths::GameDir': FPaths::GameDir() has been superseded by FPaths::ProjectDir(). Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.07.20-08.09.55:345][ 64]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/Paths.h(124): note: 'FPaths::GameDir' ?̐錾???m?F???Ă???????
+[2019.07.20-08.09.55:346][ 64]CompilerResultsLog:   C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\Private\LogGenerator.cpp(37): warning C4996: 'FPaths::GameDir': FPaths::GameDir() has been superseded by FPaths::ProjectDir(). Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.07.20-08.09.55:346][ 64]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/Paths.h(124): note: 'FPaths::GameDir' ?̐錾???m?F???Ă???????
+[2019.07.20-08.09.55:346][ 64]CompilerResultsLog:   C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\Private\LogGenerator.cpp(44): warning C4996: 'FPaths::GameDir': FPaths::GameDir() has been superseded by FPaths::ProjectDir(). Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.07.20-08.09.55:346][ 64]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/Paths.h(124): note: 'FPaths::GameDir' ?̐錾???m?F???Ă???????
+[2019.07.20-08.09.55:346][ 64]CompilerResultsLog:   [2/4] UE4Editor-LogGenerator2-5311.lib
+[2019.07.20-08.09.55:346][ 64]CompilerResultsLog:      ???C?u???? C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-5311.lib ?ƃI?u?W?F?N?g C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-5311.exp ???쐬??
+[2019.07.20-08.09.55:346][ 64]CompilerResultsLog:   [3/4] UE4Editor-LogGenerator2-5311.dll
+[2019.07.20-08.09.55:346][ 64]CompilerResultsLog:      ???C?u???? C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-5311.suppressed.lib ?ƃI?u?W?F?N?g C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-5311.suppressed.exp ???쐬??
+[2019.07.20-08.09.55:346][ 64]CompilerResultsLog:   [4/4] LogGenerator2Editor.target
+[2019.07.20-08.09.55:346][ 64]CompilerResultsLog: Total time in Parallel executor: 235.46 seconds
+[2019.07.20-08.09.55:346][ 64]CompilerResultsLog: Total execution time: 296.97 seconds
+[2019.07.20-08.09.55:346][ 64]LogMainFrame: MainFrame: Module compiling took 297.558 seconds
+[2019.07.20-08.09.55:421][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.07.20-08.09.55:424][ 64]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.07.20-08.09.55:579][ 64]LogContentBrowser: Native class hierarchy populated in 0.0206 seconds. Added 2734 classes and 664 folders.
+[2019.07.20-08.09.55:601][ 64]Display: HotReload took 297.8s.
+[2019.07.20-08.13.05:429][ 96]LogTemp: Repeating last play command: 選択ビューポート
+[2019.07.20-08.13.05:611][ 96]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.07.20-08.13.05:668][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.20-08.13.05:668][ 96]PIE: New page: PIEセッション: TestMap (2019/07/21 2:13:05)
+[2019.07.20-08.13.06:087][ 96]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2019.07.20-08.13.06:482][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.394570s)
+[2019.07.20-08.13.06:645][ 96]LogAIModule: Creating AISystem for world TestMap
+[2019.07.20-08.13.06:765][ 96]LogPlayLevel: PIE: World Init took: (0.269541s)
+[2019.07.20-08.13.06:782][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.695639s)
+[2019.07.20-08.13.07:032][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   8.67ms
+[2019.07.20-08.13.07:176][ 96]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.20-08.13.07:678][ 96]LogInit: FAudioDevice initialized.
+[2019.07.20-08.13.08:226][ 96]LogLoad: Game class is 'GameModeBase'
+[2019.07.20-08.13.08:764][ 96]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.07.20-17.13.08
+[2019.07.20-08.13.08:814][ 96]LogWorld: Bringing up level for play took: 0.051584
+[2019.07.20-08.13.09:681][ 96]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.07.20-08.13.09:957][ 96]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.07.20-08.13.09:958][ 96]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.07.20-08.13.10:337][ 96]PIE: /Game/UEDPIE_0_TestMap 5.554のプレイ イン エディタの開始時間
+[2019.07.20-08.13.10:338][ 96]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.07.20-08.13.20:401][579]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.07.20-08.13.20:410][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.20-08.13.20:589][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.20-08.13.20:589][579]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.07.20-08.13.20:837][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.20-08.13.21:425][579]LogUObjectHash: Compacting FUObjectHashTables data took   7.05ms
+[2019.07.20-08.13.21:490][580]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.07.20-08.14.41:927][241]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyLogGenerator.MyLogGenerator
+[2019.07.20-08.14.42:592][241]LogSlate: Window 'ブループリント クラスを追加' being destroyed
+[2019.07.20-08.15.33:767][802]LogUObjectHash: Compacting FUObjectHashTables data took   8.05ms
+[2019.07.20-08.15.33:767][802]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestMap' took 0.186
+[2019.07.20-08.15.33:770][802]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyLogGenerator] ([1] browsable assets)...
+[2019.07.20-08.15.33:770][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyLogGenerator]
+[2019.07.20-08.15.33:785][802]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/MyLogGenerator_Auto549DFC9614FAD55B77730C2A74A9EC8A7.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Autosaves/Game/MyLogGenerator_Auto5.uasset'
+[2019.07.20-08.15.33:788][802]LogFileHelpers: Auto-saving content packages took 0.019
+[2019.07.20-08.16.11:065][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMap" FILE="../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Content/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.20-08.16.11:139][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.07.20-08.16.11:510][906]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/TestMap27D73C2D44D8E46B30E44297D7566620.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Content/TestMap.umap'
+[2019.07.20-08.16.11:532][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMap_BuiltData" FILE="../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Content/TestMap_BuiltData.uasset" SILENT=true
+[2019.07.20-08.16.11:564][906]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/TestMap_BuiltDataC31EEE6D48415624E5D4C8A48A23A09F.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Content/TestMap_BuiltData.uasset'
+[2019.07.20-08.16.17:780][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.20-08.17.10:746][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.20-08.18.15:699][410]BlueprintLog: New page: Cube_Blueprint をコンパイル
+[2019.07.20-08.18.16:137][410]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2019.07.20-08.18.39:362][220]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.20-08.18.41:062][295]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.20-08.18.41:076][295]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/TestMap.TestMap:PersistentLevel.TestMap
+[2019.07.20-08.19.47:999][833]BlueprintLog: New page: TestMap をコンパイル
+[2019.07.20-08.19.48:453][833]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2019.07.20-08.20.05:371][503]BlueprintLog: New page: TestMap をコンパイル
+[2019.07.20-08.20.05:698][503]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.07.20-08.20.13:748][804]BlueprintLog: New page: TestMap をコンパイル
+[2019.07.20-08.20.14:106][804]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2019.07.20-08.22.08:985][362]BlueprintLog: New page: MyLogGenerator をコンパイル
+[2019.07.20-08.22.09:571][362]LogUObjectHash: Compacting FUObjectHashTables data took   7.80ms
+[2019.07.20-08.24.53:387][ 10]BlueprintLog: New page: MyLogGenerator をコンパイル
+[2019.07.20-08.24.53:730][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2019.07.20-08.26.25:350][743]LogUObjectHash: Compacting FUObjectHashTables data took   8.45ms
+[2019.07.20-08.26.25:836][743]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/TestMap_Auto6A3BBB58340E7C4A49F90EA9504FA44F5.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Autosaves/Game/TestMap_Auto6.umap'
+[2019.07.20-08.26.25:841][743]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestMap' took 0.589
+[2019.07.20-08.26.25:842][743]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.589
+[2019.07.20-08.26.25:845][743]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cube_Blueprint] ([1] browsable assets)...
+[2019.07.20-08.26.25:893][743]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Cube_Blueprint.Cube_Blueprint]
+[2019.07.20-08.26.25:893][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cube_Blueprint]
+[2019.07.20-08.26.25:948][743]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Cube_Blueprint_Auto66BBA526840E2002DB527189470ACFFFC.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Autosaves/Game/Cube_Blueprint_Auto6.uasset'
+[2019.07.20-08.26.25:951][743]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyLogGenerator] ([1] browsable assets)...
+[2019.07.20-08.26.25:951][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyLogGenerator]
+[2019.07.20-08.26.25:966][743]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/MyLogGenerator_Auto6F26FECD746129DAABDF02DACA0EFF442.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Autosaves/Game/MyLogGenerator_Auto6.uasset'
+[2019.07.20-08.26.25:969][743]LogFileHelpers: Auto-saving content packages took 0.124
+[2019.07.20-08.27.27:827][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.20-08.30.27:965][397]BlueprintLog: New page: MyLogGenerator をコンパイル
+[2019.07.20-08.30.28:659][397]LogUObjectHash: Compacting FUObjectHashTables data took  11.27ms
+[2019.07.20-08.32.24:361][ 31]BlueprintLog: New page: MyLogGenerator をコンパイル
+[2019.07.20-08.32.24:410][ 31]LogBlueprint: Error: [Compiler MyLogGenerator] Object  のタイプが不確定です。特定タイプを暗示するために  Cast To SaveGame  へ何かを接続してください            
+[2019.07.20-08.32.24:411][ 31]LogBlueprint: Error: [Compiler MyLogGenerator] ' Object ' ピンの現行値は無効です： Unsupported type Object ワイルドカード on pin Object
+[2019.07.20-08.32.24:806][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2019.07.20-08.32.24:823][ 31]LogBlueprint: Warning: [Compiler MyLogGenerator] [3453.93] Compile of MyLogGenerator failed. 2 Fatal Issue(s) 0 Warning(s) [in 462 ms] (/Game/MyLogGenerator.MyLogGenerator)
+[2019.07.20-08.32.40:609][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.20-08.32.45:078][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.20-08.32.53:791][323]LogAssetEditorManager: Opening Asset editor for Class /Script/LogGenerator2.LogGenerator
+[2019.07.20-08.36.03:614][534]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-08.36.14:341][566]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (10.727 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-08.36.26:460][602]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2019.07.20-08.36.26:706][602]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/TestMap_Auto75AA740FE40949B4660A3389A154798BE.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Autosaves/Game/TestMap_Auto7.umap'
+[2019.07.20-08.36.26:709][602]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestMap' took 0.303
+[2019.07.20-08.36.26:709][602]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.303
+[2019.07.20-08.36.26:711][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyLogGenerator] ([1] browsable assets)...
+[2019.07.20-08.36.26:711][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyLogGenerator]
+[2019.07.20-08.36.26:725][602]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/MyLogGenerator_Auto7CE5A80184F8D313549D7D2893A85E673.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Autosaves/Game/MyLogGenerator_Auto7.uasset'
+[2019.07.20-08.36.26:727][602]LogFileHelpers: Auto-saving content packages took 0.016
+[2019.07.20-08.46.36:619][298]LogTemp: Repeating last play command: 選択ビューポート
+[2019.07.20-08.46.38:030][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.07.20-08.46.38:030][298]BlueprintLog: New page: プレイ前に自動再コンパイル
+[2019.07.20-08.46.38:031][298]LogPlayLevel: [PlayLevel] Compiling MyLogGenerator before play...
+[2019.07.20-08.46.39:056][298]LogUObjectHash: Compacting FUObjectHashTables data took  35.09ms
+[2019.07.20-08.46.39:082][298]LogPlayLevel: PlayLevel: Blueprint regeneration took 1051 ms (1 blueprints)
+[2019.07.20-08.46.39:082][298]PIE: New page: PIEセッション: TestMap (2019/07/21 2:46:39)
+[2019.07.20-08.46.39:097][298]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2019.07.20-08.46.39:581][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.449114s)
+[2019.07.20-08.46.39:652][298]LogAIModule: Creating AISystem for world TestMap
+[2019.07.20-08.46.39:678][298]LogPlayLevel: PIE: World Init took: (0.097074s)
+[2019.07.20-08.46.39:678][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.581124s)
+[2019.07.20-08.46.39:720][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.07.20-08.46.39:830][298]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.20-08.46.40:316][298]LogInit: FAudioDevice initialized.
+[2019.07.20-08.46.40:697][298]LogLoad: Game class is 'GameModeBase'
+[2019.07.20-08.46.40:941][298]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.07.20-17.46.40
+[2019.07.20-08.46.40:955][298]LogWorld: Bringing up level for play took: 0.062104
+[2019.07.20-08.46.41:225][298]PIE: /Game/UEDPIE_0_TestMap 4.442のプレイ イン エディタの開始時間
+[2019.07.20-08.46.41:225][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.07.20-08.46.45:097][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.07.20-08.46.45:097][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.20-08.46.45:210][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.20-08.46.45:210][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.07.20-08.46.45:352][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.20-08.46.45:754][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.07.20-08.46.45:791][486]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.07.20-08.46.58:888][207]MapCheck: New page: マップをチェック
+[2019.07.20-08.46.58:910][207]Cmd: MAP REBUILD ALLVISIBLE
+[2019.07.20-08.46.58:912][207]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.07.20-08.46.59:391][207]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.07.20-08.46.59:624][207]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.07.20-08.46.59:716][207]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.07.20-08.46.59:725][207]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.07.20-08.47.16:682][207]TextureStreamingBuild: Display: Compiling optional shaders took 17.279 seconds.
+[2019.07.20-08.47.16:757][207]LogLevel: Display: Export Material TexCoord Scales took 0.075 seconds.
+[2019.07.20-08.47.16:779][207]TextureStreamingBuild: Display: Build Texture Streaming took 0.022 seconds.
+[2019.07.20-08.47.16:825][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.07.20-08.47.16:826][207]LightingResults: New page: ライティングのビルド - 2019/07/21 2:47:16
+[2019.07.20-08.47.17:345][207]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.07.20-08.47.17:370][207]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.07.20-08.47.17:370][207]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.07.20-08.47.17:434][207]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.07.20-08.47.17:434][207]LogSwarmInterface: [TryOpenConnection] Local Process ID is 56388
+[2019.07.20-08.47.26:250][207]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.07.20-08.47.26:250][207]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.07.20-08.47.26:250][207]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.07.20-08.47.26:250][207]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.07.20-08.47.26:250][207]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.07.20-08.47.26:250][207]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.07.20-08.47.26:426][207]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.07.20-08.47.26:426][207]MapCheck: New page: TestMap - 2019/07/21 2:47:26
+[2019.07.20-08.47.26:426][207]MapCheck: Error: WorldSettings_1 マップはライティングの再ビルドが必要です 
+[2019.07.20-08.47.26:697][207]MapCheck: マップチェックが完了: 1 エラー、 0 警告、完了に 271.143ミリ秒かかりました。
+[2019.07.20-08.47.26:721][207]LogEditorBuildUtils: Build time 0:27
+[2019.07.20-08.47.28:033][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.07.20-08.47.30:739][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.07.20-08.47.32:194][235]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/TestMap_Auto8B525FC7146E67621C34424B9CFD095CA.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Autosaves/Game/TestMap_Auto8.umap'
+[2019.07.20-08.47.32:198][235]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestMap' took 1.509
+[2019.07.20-08.47.32:198][235]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.509
+[2019.07.20-08.47.46:297][895]Job is a success!
+[2019.07.20-08.47.47:339][896]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.028s
+[2019.07.20-08.47.47:340][896]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.07.20-08.47.47:340][896]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2019.07.20-08.47.47:340][896]LogVolumetricLightmapImport:      Bricks at Level
+[2019.07.20-08.47.47:340][896]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.07.20-08.47.47:340][896]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2019.07.20-08.47.47:340][896]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2019.07.20-08.47.48:314][896]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2019.07.20-08.47.48:315][896]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2019.07.20-08.47.48:315][896]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.07.20-08.47.48:315][896]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.07.20-08.47.48:925][896]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X128)
+[2019.07.20-08.47.49:004][896]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2019.07.20-08.47.49:012][896]LogStaticLightingSystem: TestMap_BuiltData storing lightmap data for 3 meshes in 2 LightmapResourceClusters (1.5 Meshes per cluster).
+[2019.07.20-08.47.49:086][896]Lightmass on USHIRIS: 14.1 sec total, 3.87 sec importing, 132 ms setup, 632 ms photons, 5.45 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 21.4 sec total, 983 ms processing.
+[2019.07.20-08.47.49:092][896]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.07.20-08.47.49:100][896]LogStaticLightingSystem: Illumination: 32.2 sec (716 ms encoding lightmaps, 688 ms encoding shadowmaps)
+[2019.07.20-08.47.49:100][896]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.07.20-08.47.49:100][896]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.07.20-08.47.49:231][896]DumpUnbuiltLightIteractions
+[2019.07.20-08.47.49:231][896]Lights with unbuilt interactions: 0
+[2019.07.20-08.47.49:231][896]
+[2019.07.20-08.47.49:231][896]Primitives with unbuilt interactions: 0
+[2019.07.20-08.47.49:389][897]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.07.20-08.47.49:389][897]MapCheck: New page: TestMap - 2019/07/21 2:47:49
+[2019.07.20-08.47.49:390][897]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.412ミリ秒かかりました。
+[2019.07.20-08.48.14:175][312]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (46.534 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-08.49.33:643][103]BlueprintLog: New page: MyLogGenerator をコンパイル
+[2019.07.20-08.49.33:649][103]LogBlueprint: Error: [Compiler MyLogGenerator] Object  のタイプが不確定です。特定タイプを暗示するために  Cast To SaveGame  へ何かを接続してください            
+[2019.07.20-08.49.33:650][103]LogBlueprint: Error: [Compiler MyLogGenerator] ' Object ' ピンの現行値は無効です： Unsupported type Object ワイルドカード on pin Object
+[2019.07.20-08.49.33:893][103]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2019.07.20-08.49.33:901][103]LogBlueprint: Warning: [Compiler MyLogGenerator] [4483.00] Compile of MyLogGenerator failed. 2 Fatal Issue(s) 0 Warning(s) [in 257 ms] (/Game/MyLogGenerator.MyLogGenerator)
+[2019.07.20-08.51.15:954][806]LogSlate: Window 'メッセージ ログ' being destroyed
+[2019.07.20-08.51.15:965][806]LogSlate: Window 'メッセージ ログ' being destroyed
+[2019.07.20-08.52.48:761][684]BlueprintLog: New page: MyLogGenerator をコンパイル
+[2019.07.20-08.52.49:133][684]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2019.07.20-08.57.35:482][ 17]LogUObjectHash: Compacting FUObjectHashTables data took  10.51ms
+[2019.07.20-08.57.36:050][ 17]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/TestMap_Auto96D8DD21847D565C33AC4C6BFFACF7043.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Autosaves/Game/TestMap_Auto9.umap'
+[2019.07.20-08.57.36:057][ 17]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestMap' took 0.702
+[2019.07.20-08.57.36:057][ 17]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.702
+[2019.07.20-08.57.36:060][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyLogGenerator] ([1] browsable assets)...
+[2019.07.20-08.57.36:061][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyLogGenerator]
+[2019.07.20-08.57.36:161][ 17]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/MyLogGenerator_Auto9AC70631E419C4D27A4727E96B991AFFA.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Autosaves/Game/MyLogGenerator_Auto9.uasset'
+[2019.07.20-08.57.36:302][ 17]LogFileHelpers: Auto-saving content packages took 0.243
+[2019.07.20-08.58.33:921][426]Candidate modules for hot reload:
+[2019.07.20-08.58.33:921][426]  LogGenerator2
+[2019.07.20-08.58.33:921][426]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LogGenerator2,1399 Win64 Development -TargetType=Editor -Project="C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/LogGenerator2.uproject" "C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/LogGenerator2.uproject"  -IgnoreJunk]
+[2019.07.20-09.21.56:917][426]CompilerResultsLog: New page: コンパイル - 2019/07/21 3:21:56
+[2019.07.20-09.21.56:941][426]CompilerResultsLog: Creating makefile for LogGenerator2Editor (ini files are newer than makefile)
+[2019.07.20-09.21.56:941][426]CompilerResultsLog: Parsing headers for LogGenerator2Editor
+[2019.07.20-09.21.56:941][426]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\LogGenerator2.uproject" "C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\LogGenerator2Editor\Development\LogGenerator2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.20-09.21.56:941][426]CompilerResultsLog: Reflection code generated for LogGenerator2Editor in 202.0652232 seconds
+[2019.07.20-09.21.56:941][426]CompilerResultsLog: Error: C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\Private\LogGenerator.cpp(1) : error: Expected LogGenerator.h to be first header included.
+[2019.07.20-09.21.56:941][426]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.20-09.21.56:941][426]CompilerResultsLog: Building 8 actions with 4 processes...
+[2019.07.20-09.21.56:941][426]CompilerResultsLog:   [1/8] LogGenerator2.init.gen.cpp
+[2019.07.20-09.21.56:941][426]CompilerResultsLog:   [2/8] MyPawn.cpp
+[2019.07.20-09.21.56:941][426]CompilerResultsLog:   [3/8] LogGenerator.cpp
+[2019.07.20-09.21.56:941][426]CompilerResultsLog:   C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\Private\LogGenerator.cpp(32): warning C4996: 'FPaths::GameDir': FPaths::GameDir() has been superseded by FPaths::ProjectDir(). Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.07.20-09.21.56:941][426]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/Paths.h(124): note: 'FPaths::GameDir' ?̐錾???m?F???Ă???????
+[2019.07.20-09.21.56:941][426]CompilerResultsLog:   C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\Private\LogGenerator.cpp(37): warning C4996: 'FPaths::GameDir': FPaths::GameDir() has been superseded by FPaths::ProjectDir(). Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.07.20-09.21.56:941][426]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/Paths.h(124): note: 'FPaths::GameDir' ?̐錾???m?F???Ă???????
+[2019.07.20-09.21.56:941][426]CompilerResultsLog:   C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\Private\LogGenerator.cpp(44): warning C4996: 'FPaths::GameDir': FPaths::GameDir() has been superseded by FPaths::ProjectDir(). Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.07.20-09.21.56:941][426]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/Paths.h(124): note: 'FPaths::GameDir' ?̐錾???m?F???Ă???????
+[2019.07.20-09.21.56:941][426]CompilerResultsLog:   [4/8] LogGenerator.gen.cpp
+[2019.07.20-09.21.56:941][426]CompilerResultsLog:   [5/8] MyPawn.gen.cpp
+[2019.07.20-09.21.56:941][426]CompilerResultsLog:   [6/8] UE4Editor-LogGenerator2-1399.lib
+[2019.07.20-09.21.56:941][426]CompilerResultsLog:      ???C?u???? C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-1399.lib ?ƃI?u?W?F?N?g C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-1399.exp ???쐬??
+[2019.07.20-09.21.56:941][426]CompilerResultsLog:   [7/8] UE4Editor-LogGenerator2-1399.dll
+[2019.07.20-09.21.56:941][426]CompilerResultsLog:      ???C?u???? C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-1399.suppressed.lib ?ƃI?u?W?F?N?g C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-1399.suppressed.exp ???쐬??
+[2019.07.20-09.21.56:941][426]CompilerResultsLog:   [8/8] LogGenerator2Editor.target
+[2019.07.20-09.21.56:941][426]CompilerResultsLog: Total time in Parallel executor: 1079.83 seconds
+[2019.07.20-09.21.56:941][426]CompilerResultsLog: Total execution time: 1399.52 seconds
+[2019.07.20-09.21.56:981][426]LogMainFrame: MainFrame: Module compiling took 1403.133 seconds
+[2019.07.20-09.21.57:333][426]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2019.07.20-09.21.57:367][426]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.07.20-09.21.58:000][426]LogContentBrowser: Native class hierarchy populated in 0.0514 seconds. Added 2734 classes and 664 folders.
+[2019.07.20-09.21.58:027][426]Display: HotReload took 1406.0s.
+[2019.07.20-09.21.58:029][426]Warning: HotReload operation took 1406.0s.
+[2019.07.20-09.23.34:384][426]LogSlate: Window 'C++ クラスを追加' being destroyed
+[2019.07.20-09.23.35:908][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:908][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:908][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:908][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:908][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:908][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:908][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:909][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:909][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:909][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:909][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:909][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:909][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:909][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:909][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:909][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:909][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:909][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:909][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:909][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:910][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:910][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:910][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:910][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.23.35:910][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-09.24.14:360][540]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (38.452 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-10.06.39:508][232]LogSlate: Took 0.112239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2019.07.20-10.07.57:844][102]MapCheck: New page: マップをチェック
+[2019.07.20-10.07.57:899][102]Cmd: MAP REBUILD ALLVISIBLE
+[2019.07.20-10.07.57:907][102]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.07.20-10.08.02:650][102]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2019.07.20-10.08.02:773][102]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.07.20-10.08.03:021][102]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.07.20-10.08.03:063][102]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.07.20-10.08.08:178][102]TextureStreamingBuild: Display: Compiling optional shaders took 5.411 seconds.
+[2019.07.20-10.08.08:333][102]LogLevel: Display: Export Material TexCoord Scales took 0.155 seconds.
+[2019.07.20-10.08.08:355][102]TextureStreamingBuild: Display: Build Texture Streaming took 0.021 seconds.
+[2019.07.20-10.08.08:854][102]LogUObjectHash: Compacting FUObjectHashTables data took  19.75ms
+[2019.07.20-10.08.08:885][102]LightingResults: New page: ライティングのビルド - 2019/07/21 4:08:08
+[2019.07.20-10.08.09:250][102]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.07.20-10.08.09:257][102]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.07.20-10.08.09:281][102]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.07.20-10.08.09:394][102]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.07.20-10.08.09:394][102]LogSwarmInterface: [TryOpenConnection] Local Process ID is 56388
+[2019.07.20-10.08.14:036][102]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.07.20-10.08.14:075][102]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.07.20-10.08.14:075][102]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.07.20-10.08.14:075][102]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.07.20-10.08.14:075][102]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.07.20-10.08.14:075][102]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.07.20-10.08.14:608][102]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.07.20-10.08.14:608][102]MapCheck: New page: TestMap - 2019/07/21 4:08:14
+[2019.07.20-10.08.14:763][102]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 18.276ミリ秒かかりました。
+[2019.07.20-10.08.14:798][102]LogEditorBuildUtils: Build time 0:16
+[2019.07.20-10.08.15:879][106]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2019.07.20-10.08.19:071][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.07.20-10.08.21:167][148]LogSavePackage: Moving '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/TestMap_Auto0F232F09A473C50D09D9AB2AE5C803835.tmp' to '../../../../../../Users/yuugo/Documents/Unreal Projects/LogGenerator2/Saved/Autosaves/Game/TestMap_Auto0.umap'
+[2019.07.20-10.08.21:176][148]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestMap' took 2.240
+[2019.07.20-10.08.21:176][148]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.240
+[2019.07.20-10.08.31:275][663]Job is a success!
+[2019.07.20-10.08.31:956][664]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2019.07.20-10.08.31:956][664]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.07.20-10.08.31:956][664]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2019.07.20-10.08.31:956][664]LogVolumetricLightmapImport:      Bricks at Level
+[2019.07.20-10.08.31:956][664]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.07.20-10.08.31:956][664]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2019.07.20-10.08.31:956][664]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2019.07.20-10.08.33:125][664]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.07.20-10.08.33:125][664]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.07.20-10.08.33:125][664]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.07.20-10.08.33:125][664]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.07.20-10.08.33:667][664]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X128)
+[2019.07.20-10.08.33:667][664]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2019.07.20-10.08.33:675][664]LogStaticLightingSystem: TestMap_BuiltData storing lightmap data for 3 meshes in 2 LightmapResourceClusters (1.5 Meshes per cluster).
+[2019.07.20-10.08.33:682][664]Lightmass on USHIRIS: 9.32 sec total, 3.76 sec importing, 461 ms setup, 364 ms photons, 3.56 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 14.1 sec total, 604 ms processing.
+[2019.07.20-10.08.33:780][664]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2019.07.20-10.08.33:864][664]LogStaticLightingSystem: Illumination: 24.9 sec (996 ms encoding lightmaps, 538 ms encoding shadowmaps)
+[2019.07.20-10.08.33:864][664]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.07.20-10.08.33:864][664]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.07.20-10.08.34:118][664]DumpUnbuiltLightIteractions
+[2019.07.20-10.08.34:118][664]Lights with unbuilt interactions: 0
+[2019.07.20-10.08.34:118][664]
+[2019.07.20-10.08.34:118][664]Primitives with unbuilt interactions: 0
+[2019.07.20-10.08.34:652][665]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.07.20-10.08.34:652][665]MapCheck: New page: TestMap - 2019/07/21 4:08:34
+[2019.07.20-10.08.34:652][665]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.441ミリ秒かかりました。
+[2019.07.20-10.09.00:051][130]Candidate modules for hot reload:
+[2019.07.20-10.09.00:051][130]  LogGenerator2
+[2019.07.20-10.09.00:051][130]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LogGenerator2,1625 Win64 Development -TargetType=Editor -Project="C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/LogGenerator2.uproject" "C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/LogGenerator2.uproject"  -IgnoreJunk]
+[2019.07.20-10.09.00:460][130]Warning: Starting HotReload took  0.6s.
+[2019.07.20-10.15.28:109][786]CompilerResultsLog: New page: コンパイル - 2019/07/21 4:15:28
+[2019.07.20-10.15.28:109][786]CompilerResultsLog: Creating makefile for LogGenerator2Editor (ini files are newer than makefile)
+[2019.07.20-10.15.28:109][786]CompilerResultsLog: Parsing headers for LogGenerator2Editor
+[2019.07.20-10.15.28:109][786]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\LogGenerator2.uproject" "C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\LogGenerator2Editor\Development\LogGenerator2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.07.20-10.15.28:109][786]CompilerResultsLog: Reflection code generated for LogGenerator2Editor in 31.5756152 seconds
+[2019.07.20-10.15.28:109][786]CompilerResultsLog: Error: C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\Private\LogGenerator.cpp(1) : error: Expected LogGenerator.h to be first header included.
+[2019.07.20-10.15.28:109][786]CompilerResultsLog: Error: C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\Private\MyPawn.cpp(1) : error: Expected MyPawn.h to be first header included.
+[2019.07.20-10.15.28:109][786]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.07.20-10.15.28:130][786]CompilerResultsLog: Building 6 actions with 4 processes...
+[2019.07.20-10.15.28:130][786]CompilerResultsLog:   [1/6] LogGenerator2.init.gen.cpp
+[2019.07.20-10.15.28:130][786]CompilerResultsLog:   [2/6] MyPawn.cpp
+[2019.07.20-10.15.28:130][786]CompilerResultsLog:   C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\Private\MyPawn.cpp(38): warning C4996: 'FPaths::GameDir': FPaths::GameDir() has been superseded by FPaths::ProjectDir(). Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.07.20-10.15.28:130][786]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/Paths.h(124): note: 'FPaths::GameDir' ?̐錾???m?F???Ă???????
+[2019.07.20-10.15.28:130][786]CompilerResultsLog:   C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\Private\MyPawn.cpp(43): warning C4996: 'FPaths::GameDir': FPaths::GameDir() has been superseded by FPaths::ProjectDir(). Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.07.20-10.15.28:130][786]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/Paths.h(124): note: 'FPaths::GameDir' ?̐錾???m?F???Ă???????
+[2019.07.20-10.15.28:130][786]CompilerResultsLog:   C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Source\LogGenerator2\Private\MyPawn.cpp(50): warning C4996: 'FPaths::GameDir': FPaths::GameDir() has been superseded by FPaths::ProjectDir(). Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2019.07.20-10.15.28:130][786]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/Paths.h(124): note: 'FPaths::GameDir' ?̐錾???m?F???Ă???????
+[2019.07.20-10.15.28:130][786]CompilerResultsLog:   [3/6] MyPawn.gen.cpp
+[2019.07.20-10.15.28:130][786]CompilerResultsLog:   [4/6] UE4Editor-LogGenerator2-1625.lib
+[2019.07.20-10.15.28:130][786]CompilerResultsLog:      ???C?u???? C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-1625.lib ?ƃI?u?W?F?N?g C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-1625.exp ???쐬??
+[2019.07.20-10.15.28:130][786]CompilerResultsLog:   [5/6] UE4Editor-LogGenerator2-1625.dll
+[2019.07.20-10.15.28:130][786]CompilerResultsLog:      ???C?u???? C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-1625.suppressed.lib ?ƃI?u?W?F?N?g C:\Users\yuugo\Documents\Unreal Projects\LogGenerator2\Intermediate\Build\Win64\UE4Editor\Development\LogGenerator2\UE4Editor-LogGenerator2-1625.suppressed.exp ???쐬??
+[2019.07.20-10.15.28:131][786]CompilerResultsLog:   [6/6] LogGenerator2Editor.target
+[2019.07.20-10.15.28:131][786]CompilerResultsLog: Total time in Parallel executor: 335.86 seconds
+[2019.07.20-10.15.28:131][786]CompilerResultsLog: Total execution time: 386.93 seconds
+[2019.07.20-10.15.28:131][786]LogMainFrame: MainFrame: Module compiling took 388.113 seconds
+[2019.07.20-10.15.28:245][786]LogUObjectHash: Compacting FUObjectHashTables data took   7.44ms
+[2019.07.20-10.15.28:248][786]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.07.20-10.15.28:460][786]LogContentBrowser: Native class hierarchy populated in 0.0405 seconds. Added 2734 classes and 664 folders.
+[2019.07.20-10.15.28:460][786]Display: HotReload took 388.6s.
+[2019.07.20-10.19.08:921][ 91]LogSlate: Window 'TestMap' being destroyed
+[2019.07.20-10.19.08:968][ 91]LogSlate: Window 'TestMap' being destroyed
+[2019.07.20-10.19.39:373][ 91]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.07.20-10.19.55:180][162]LogUObjectHash: Compacting FUObjectHashTables data took   7.99ms
+[2019.07.20-10.19.55:208][162]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestMap' took 7.472
+[2019.07.20-10.20.14:167][213]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (29.583 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.20-10.23.07:113][525]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyLogGenerator.MyLogGenerator
+[2019.07.20-10.24.45:389][382]BlueprintLog: New page: MyLogGenerator をコンパイル
+[2019.07.20-10.24.48:691][382]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2019.07.20-10.26.02:355][938]LogEditor: Attempting to add actor of class 'LogGenerator' to level at 320.00,-310.00,20.00
+[2019.07.20-10.26.05:800][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.20-10.26.09:528][335]LogAssetEditorManager: Opening Asset editor for Class /Script/LogGenerator2.LogGenerator
+[2019.07.20-10.26.10:157][335]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/Source/LogGenerator2/Private/LogGenerator.cpp'
+[2019.07.20-10.26.43:734][772]Candidate modules for hot reload:
+[2019.07.20-10.26.43:734][772]  LogGenerator2
+[2019.07.20-10.26.43:734][772]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=LogGenerator2,9359 Win64 Development -TargetType=Editor -Project="C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/LogGenerator2.uproject" "C:/Users/yuugo/Documents/Unreal Projects/LogGenerator2/LogGenerator2.uproject"  -IgnoreJunk]
+[2019.07.20-10.26.45:004][772]Warning: Starting HotReload took  1.3s.
+[2019.07.20-10.29.47:475][804]LogRHI: Error: SyncInterval 0
+[2019.07.20-10.29.47:475][804]LogRHI: Error: SwapChainDesc.BufferDesc.Width 8
+[2019.07.20-10.29.47:475][804]LogRHI: Error: SwapChainDesc.BufferDesc.Height 70
+[2019.07.20-10.29.47:475][804]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2019.07.20-10.29.47:475][804]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2019.07.20-10.29.47:475][804]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2019.07.20-10.29.47:475][804]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2019.07.20-10.29.47:475][804]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2019.07.20-10.29.47:475][804]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2019.07.20-10.29.47:475][804]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2019.07.20-10.29.47:475][804]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2019.07.20-10.29.47:475][804]LogRHI: Error: SwapChainDesc.BufferCount 1
+[2019.07.20-10.29.47:475][804]LogRHI: Error: SwapChainDesc.OutputWindow 00000000002F035E
+[2019.07.20-10.29.47:475][804]LogRHI: Error: SwapChainDesc.Windowed true
+[2019.07.20-10.29.47:475][804]LogRHI: Error: SwapChainDesc.SwapEffect 0
+[2019.07.20-10.29.47:475][804]LogRHI: Error: SwapChainDesc.Flags 2
+[2019.07.20-10.29.47:517][804]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:361 
+ with error E_INVALIDARG
+[2019.07.20-10.29.48:119][804]LogWindows: Windows GetLastError: この操作を正しく終了しました。 (0)
+[2019.07.20-10.30.48:145][804]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.07.20-10.30.48:145][804]LogWindows: Windows GetLastError: この操作を正しく終了しました。 (0)
+[2019.07.20-10.36.10:747][804]LogThreadingWindows: Error: Runnable thread RenderThread 23 crashed.
+[2019.07.20-10.36.10:747][804]LogWindows: Error: === Critical error: ===
+[2019.07.20-10.36.10:747][804]LogWindows: Error: 
+[2019.07.20-10.36.10:747][804]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 819] 
+[2019.07.20-10.36.10:747][804]LogWindows: Error: Rendering thread exception:
+[2019.07.20-10.36.10:747][804]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 249] 
+[2019.07.20-10.36.10:786][804]LogWindows: Error: Result failed 
+[2019.07.20-10.36.10:786][804]LogWindows: Error:  at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:361 
+[2019.07.20-10.36.10:786][804]LogWindows: Error:  with error E_INVALIDARG
+[2019.07.20-10.36.10:786][804]LogWindows: Error: 
+[2019.07.20-10.36.10:786][804]LogWindows: Error: 
+[2019.07.20-10.36.10:786][804]LogWindows: Error: 
+[2019.07.20-10.36.10:786][804]LogWindows: Error: 
+[2019.07.20-10.36.10:786][804]LogWindows: Error: 
+[2019.07.20-10.36.10:786][804]LogWindows: Error: 
+[2019.07.20-10.36.10:786][804]LogWindows: Error: Crash in runnable thread RenderThread 23
+[2019.07.20-10.36.11:091][804]LogWindows: Error: HandleError re-entered.
+[2019.07.20-10.36.12:483][804]LogExit: Executing StaticShutdownAfterError
+[2019.07.20-10.36.12:483][804]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.07.20-10.36.12:646][804]Log file closed, 07/20/19 19:36:12
